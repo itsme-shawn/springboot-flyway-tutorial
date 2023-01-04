@@ -1,4 +1,4 @@
-package com.amigoscode.exception;
+package com.tutorial.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
